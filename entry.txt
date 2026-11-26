@@ -1,0 +1,1 @@
+v1.9.3: patched a bug where falling asleep triggered the body's fall-detection alarm and jolted you awake for no reason.
